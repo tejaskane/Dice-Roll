@@ -1,0 +1,35 @@
+body{
+    font-family: "Honk", system-ui;
+    background-color: rgb(7, 7, 148);
+}
+
+.container{
+    text-align: center;
+    height: 600px;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+p{
+    font-size: 2rem;
+}
+footer{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.dice{
+    margin-left: 50px;
+}
+
+img{
+    height: 200px;
+}
+.fl{
+    display: flex;
+    justify-content: center;
+    
+    
+}
